@@ -1,0 +1,17 @@
+void main() {
+  print("Hello, World");
+  print(3+1);
+    /*varibales
+     * Datatype+variable name=value
+     * /
+     * */
+  int firstvalue=3;
+  int mdvalue=33;
+  String hmm="Hello, World";
+  bool vv=true;
+  dynamic anyvalue=111.5;
+  print(anyvalue);
+  print(vv);
+  print(hmm);
+  
+}
